@@ -1,0 +1,30 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Backup & report files
+_ReSharper*
+*.[Dd]BG
+*.pdb
+*.d.ts
+*.build.cs
+#[
+#]/
+* _
+[Rr]elease/
+[Dd]ebug*/
+[Bb]uild*/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+.DS_Store
+
+# Rider related directories
+.idea/
+
+# Visual Studio 2019
+.vs/

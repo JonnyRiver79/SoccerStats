@@ -1,0 +1,46 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Backup & report files
+_ReSharper*
+*.[Dd]BG
+*.pdb
+*.d.ts
+*.build.cs
+#[
+#]/
+* _
+[Rr]elease/
+[Dd]ebug*/
+[Bb]uild*/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+.DS_Store
+
+# Rider related directories
+.idea/
+
+# Visual Studio 2019
+.vs/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Diretórios de build
+build/
+.next/
+out/
+
+# Sistemas de configuração da IDE
+.vscode/
+.idea/
+.DS_Store
